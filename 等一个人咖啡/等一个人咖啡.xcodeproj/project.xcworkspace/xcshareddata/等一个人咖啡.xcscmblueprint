@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c72b0a84-e01b-4e47-aeb4-fd851d2bdb9b",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c72b0a84-e01b-4e47-aeb4-fd851d2bdb9b" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c72b0a84-e01b-4e47-aeb4-fd851d2bdb9b" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5D1E2585-1AFE-4BDE-9EAA-EFAD504BB0E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c72b0a84-e01b-4e47-aeb4-fd851d2bdb9b" : "weeping\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "等一个人咖啡",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Code\/等一个人咖啡\/等一个人咖啡.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/weeping",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c72b0a84-e01b-4e47-aeb4-fd851d2bdb9b"
+    }
+  ]
+}
